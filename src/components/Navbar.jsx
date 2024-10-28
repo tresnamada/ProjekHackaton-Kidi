@@ -80,11 +80,7 @@ const Navbar = () => {
               Gallery
             </Link>
           </li>
-          <li>
-            <Link to="/about" className="hover:text-yellow-300 " onClick={toggleMenu}>
-              About
-            </Link>
-          </li>
+      
           <li>
             <Link to="/forum" className="hover:text-yellow-300 " onClick={toggleMenu}>
               Forum

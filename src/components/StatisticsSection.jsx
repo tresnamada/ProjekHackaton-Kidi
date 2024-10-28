@@ -32,7 +32,9 @@ const StatisticsSection = () => {
             <p>Komunitas Aktif</p>
           </div>
         </div>
+        <h1 className="mt-2 md:mt-8 md:mb-8 font-bold text-xl">Selamat datang di Kreva, <br /> tempat di mana seniman muda dari berbagai latar belakang dapat mengekspresikan karya seni mereka dan berbagi inspirasi tanpa batas! Di sini, kami menyediakan ruang untuk menggali kreativitas, berkolaborasi, dan menemukan ide-ide segar. Temukan komunitas yang mendukung perjalanan artistik Anda, sekaligus kesempatan untuk berkembang bersama seniman lainnya. Ekspresikan diri, berinovasi, dan jadilah bagian dari gerakan seni yang berani dan penuh inspirasi!</h1>
       </div>
+      
     </section>
   );
 };
